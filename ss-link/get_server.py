@@ -106,3 +106,6 @@ print "ip: {}".format(sorted_host[0][0])
 print "name: {}".format(sorted_host[0][1]['name'])
 print "load: {}".format(sorted_host[0][1]['load'])
 print "avg_rtt: {}".format(sorted_host[0][1]['avg_rtt'])
+
+# 用法 Usage
+# sudo python get_server.py
